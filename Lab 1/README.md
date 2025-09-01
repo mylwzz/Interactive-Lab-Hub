@@ -78,9 +78,14 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
+
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
+
+
+## Part A, all sections found here:
+![Part A](./partA.jpg)
 
 
 ## Part B. Act out the Interaction
@@ -88,8 +93,10 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+I acted out the sequence, and some parts that looked intuitive in the storyboard felt awkward in real life. The different pulse switches and paces felt a bit weird to time, I wasn't sure exactly how it would play out. Overall, I think the pacing in general is much more understandable just by reading about the storyboard on paper.
 
-\*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
+**Are there new ideas that occur to you or your collaborator that come up from the acting?**  
+The first idea that came to me was different light levels, especially of the pulses and glows, as well as how it would be nice if there was a gradual fade of colors. It would also be nice if there were different colors being shown to signify the states and separate them, and not only just one color as vaguely depicted on the storyboard.
 
 
 ## Part C. Prototype the device
@@ -103,6 +110,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+There is a tiny microlag noticeable between the color on the controller versus the phone screen. The sync, however, was extremely intuitive. I think it would've been nice to implement preset color changing functions, like blink or fade or breathe, but I get the point of the project is to test our creativity and push the boundaries, while giving us only the very basically functioning tools. 
 
 
 ## Part D. Wizard the device
@@ -110,10 +118,18 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+### First attempt 
+[Watch dattempt1.mov](./dattempt1.mov)  
+(Original goal: thirsty → watered → happy)
+
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
+### Second attempt 
+[Watch dattempt2.mov](./dattempt2.mov) 
+(new goal: lonely → comforted)
+Changed the watering action to be comforted by presence instead, and talking to the 'Plant Spirit'
 
 ## Part E. Costume the device
 
@@ -122,17 +138,40 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+## Part E
+![Part E (3 Costumes)](./partE.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+### Costume 1 — Glass cup, decorated
+- Concern: A glass cup might let too much light through, and being decorated may require a dimmer light at max light levels.
+- Opportunity: The transparent surface allows the light to shine strongly, while decorations (paint, etching, stickers) give it character and hint at its “spirit.”  
+
+## Costume 2 — Mossy Overhang Wrap
+- Concern: Mossy overhang could block too much light if layered too densely. Also, light may leak out in different volumes from different parts of the light source.
+- Opportunity: Creates a very organic look, aligning directly with the “plant” theme. 
+
+## Costume 3 — Fabric Dome
+- Concern: Fabric could suppress the light too much if it’s opaque.  
+- Opportunity: A translucent dome spreads light evenly, which works well for gradual states like "dim", or a steady state for "content".
+
+
+## Overall reflections
+Heat: Every design leaves some airflow through holes at the bottom so the phone won’t overheat.  
+Water safety: None of the costumes actually involve soil or water, keeping the phone safe.  
+Bright Colors: Slight issue here; if it was an actual plant for a plant spirit, the natural green color of the plant may overpower duller colors at dim lights, like blue if it was "sad".
 
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+### Prototyped Interaction
+[Watch partF.mov](./partF.mov) 
+
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+**I completed this assignment on my own.**
 
 
 # Staging Interaction, Part 2 
