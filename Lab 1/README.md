@@ -85,7 +85,7 @@ Present your ideas to the other people in your breakout room (or in small groups
 
 
 ## Part A, all sections found here:
-![Part A](./partA.jpg)
+![Part A](./partA.JPG)
 
 
 ## Part B. Act out the Interaction
@@ -139,7 +139,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your devices might look like here.**\*\*
 ## Part E
-![Part E (3 Costumes)](./partE.jpg)
+![Part E (3 Costumes)](./partE.JPG)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 ### Costume 1 — Glass cup, decorated
