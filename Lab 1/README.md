@@ -146,16 +146,16 @@ Think about the setting of the device: is the environment a place where the devi
 - Concern: A glass cup might let too much light through, and being decorated may require a dimmer light at max light levels.
 - Opportunity: The transparent surface allows the light to shine strongly, while decorations (paint, etching, stickers) give it character and hint at its “spirit.”  
 
-## Costume 2 — Mossy Overhang Wrap
+### Costume 2 — Mossy Overhang Wrap
 - Concern: Mossy overhang could block too much light if layered too densely. Also, light may leak out in different volumes from different parts of the light source.
 - Opportunity: Creates a very organic look, aligning directly with the “plant” theme. 
 
-## Costume 3 — Fabric Dome
+### Costume 3 — Fabric Dome
 - Concern: Fabric could suppress the light too much if it’s opaque.  
 - Opportunity: A translucent dome spreads light evenly, which works well for gradual states like "dim", or a steady state for "content".
 
 
-## Overall reflections
+### Overall reflections
 Heat: Every design leaves some airflow through holes at the bottom so the phone won’t overheat.  
 Water safety: None of the costumes actually involve soil or water, keeping the phone safe.  
 Bright Colors: Slight issue here; if it was an actual plant for a plant spirit, the natural green color of the plant may overpower duller colors at dim lights, like blue if it was "sad".
